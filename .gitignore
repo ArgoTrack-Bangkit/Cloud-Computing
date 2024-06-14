@@ -4,3 +4,4 @@ serviceAccountKey.json
 =======
 >>>>>>> f0e7cdfcc3e1883f21c393a5ea7916e1b54464fc
 firebaseConfig.js
+.env
